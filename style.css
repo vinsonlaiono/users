@@ -1,0 +1,49 @@
+/* *{
+    margin: 0px;
+    padding: 0px;
+} */
+
+.container{
+    width: 625px;
+    background-color: beige;
+    border: solid 2px black;
+}
+p{
+    display: inline-block;
+}
+input{
+    display: block;
+}
+form,
+h1{
+    margin: 20px;
+}
+.users p{
+    margin: 20px;
+}
+.appendUsers p{
+    display: block;
+}
+.users{
+    padding-right: 70px;
+    border: solid 2px black;
+}
+td{
+    display: inline-block;
+    padding-right: 44px;
+    width: 75px;
+}
+.user_container{
+    margin: 20px;
+}
+.emails,
+.contact{
+    padding: 15px;
+    width: 64px;
+}
+.newContact{
+        padding-left: 60px;
+}
+.contact{
+    padding-left: 55px;
+}
